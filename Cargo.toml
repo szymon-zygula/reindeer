@@ -1,0 +1,8 @@
+[package]
+name = "rendrer"
+version = "0.1.0"
+authors = ["Szymon Zyguła <zbrojny120@protonmail.ch>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.55"
