@@ -2,7 +2,7 @@
 <img
     src="https://raw.githubusercontent.com/szymon-zygula/reindeer/master/render-video.gif"
     alt="Reindeer gif"
-    width="200"
+    width="500"
 />
 
 Reindeer is a simple 3D rendering software displaying everything directly in the terminal window
